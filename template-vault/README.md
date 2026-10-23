@@ -10,8 +10,12 @@ Copie esta pasta, abra no Obsidian ("Abrir pasta como vault") e comece pelo `00-
 - `50-Permanent-Notes/` suas ideias, em frases completas
 - `90-Templates/` Configurar em *Configurações → Templates* (ou plugin Templates) apontando para esta pasta
 
-Para o diário abrir sozinho: *Notas diárias → pasta `10-Journal`, template `Journal`, formato de data `YYYY/YYYY-MM-DD`*.
+Notas diárias e templates já vêm configurados em `.obsidian/` (pasta `10-Journal`, formato `YYYY/YYYY-MM-DD`, template `Journal`).
 Isso cria uma subpasta por ano (`10-Journal/2026/2026-10-23.md`). Não crie pasta por mês.
+
+## Git e `.obsidian/`
+
+O `.gitignore` versiona as configurações e a lista de plugins e temas, mas **não** o código deles: dos plugins ficam só `manifest.json` e `data.json`; `workspace.json` e caches são ignorados. Depois de clonar, o Obsidian pede para reativar os plugins da lista.
 
 Limite: 7 pastas, 3 propriedades, 3 templates em uso (ver `method/sustainability.md`).
 

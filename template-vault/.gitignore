@@ -1,0 +1,18 @@
+# Obsidian: commit settings and the plugin/theme lists, not plugin code or volatile state.
+
+# Volatile state and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.DS_Store
+.trash/
+.DS_Store
+
+# Community plugins: keep only manifest.json (name/version) and data.json (settings)
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/data.json
+
+# Themes: keep only manifest.json; the list lives in .obsidian/appearance.json
+.obsidian/themes/*/*
+!.obsidian/themes/*/manifest.json
