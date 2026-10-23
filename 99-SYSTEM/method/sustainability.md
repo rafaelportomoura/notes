@@ -8,7 +8,7 @@ Então o método é julgado por uma pergunta: *eu ainda faria isto num mês ruim
 1. **Pequeno é o padrão.** O mínimo viável (10 min) é a prática. Mais do que isso é bônus, não obrigação.
 2. **Sem streak sagrado.** Não conte "dias seguidos" como virtude. Conte "dias em 7": 4 em 7 já é ótimo.
 3. **Pausa é parte do método.** Semana ruim? Pause até 7 dias sem culpa. Regra: na volta, faça só o mínimo.
-4. **Complexidade tem teto.** Máximo de 7 pastas, 3 propriedades, 3 templates em uso. Quer adicionar algo? Remova outra coisa.
+4. **Complexidade tem teto.** Máximo de 8 pastas na raiz, 3 propriedades, 3 templates em uso. Quer adicionar algo? Remova outra coisa.
 5. **Valor antes de sistema.** Se a nota nunca foi consultada, o problema é o formato, não você.
 6. **Um único lugar para tudo.** Um vault, um Inbox, uma revisão semanal.
 

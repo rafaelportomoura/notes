@@ -11,15 +11,17 @@ Project to learn how to read, take notes and remember, so the notes can be found
 
 ## Layout
 
+This repository **is** the Obsidian vault (vault root = repo root).
+
 - `README.md`: entry point
-- `decisions/`: structural choices
-- `method/`: guides (reading, note-taking, remembering, routine, sustainability)
-- `plan-30-days.md`: guided practice
-- `template-vault/`: starter Obsidian vault with templates
+- `00-Inbox/`, `10-Journal/`, `20-Projects/`, `30-Areas/`, `40-Sources/`, `50-Permanent-Notes/`, `90-Templates/`: the vault
+- `99-SYSTEM/`: `decisions/`, `method/` (reading, note-taking, remembering, routine, sustainability) and `plan-30-days.md`
+- `.obsidian/`: tracked settings (see `.gitignore`)
+- `.claude/`: agent config and lessons
 
 ## Working principle
 
-Keep it small. Complexity cap: 7 folders, 3 properties, 3 templates in use (see `method/sustainability.md`). When adding something, remove something else.
+Keep it small. Complexity cap: 8 root folders, 3 properties, 3 templates in use (see `99-SYSTEM/method/sustainability.md`). When adding something, remove something else.
 
 ## Lessons (agent memory)
 

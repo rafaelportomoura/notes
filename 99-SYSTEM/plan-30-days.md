@@ -6,8 +6,8 @@ Texto de prática sugerido: um texto **curto** que você já tenha (ex.: `One St
 
 | Dia | Tarefa |
 |---|---|
-| 1 | Ler `decisions/one-vault-or-many.md`. Copiar `template-vault/` e abrir no Obsidian. |
-| 2 | Ler `method/reading.md`. Fazer a Passada 1 do texto escolhido. |
+| 1 | Ler `99-SYSTEM/decisions/one-vault-or-many.md`. Abrir esta pasta como vault no Obsidian. |
+| 2 | Ler `99-SYSTEM/method/reading.md`. Fazer a Passada 1 do texto escolhido. |
 | 3 | Passada 2 (metade). Nota rápida. |
 | 4 | Passada 2 (resto). |
 | 5 | Passada 3: resumo de 5 linhas de memória + 3 perguntas respondidas. |
@@ -18,7 +18,7 @@ Texto de prática sugerido: um texto **curto** que você já tenha (ex.: `One St
 
 | Dia | Tarefa |
 |---|---|
-| 8 | Ler `method/note-taking.md`. |
+| 8 | Ler `99-SYSTEM/method/note-taking.md`. |
 | 9–11 | Escrever 1 nota permanente por dia, a partir da nota de fonte. Cada uma com 2 links. |
 | 12 | Reescrever a pior das 3. |
 | 13 | Diário do dia no template. |
@@ -28,7 +28,7 @@ Texto de prática sugerido: um texto **curto** que você já tenha (ex.: `One St
 
 | Dia | Tarefa |
 |---|---|
-| 15 | Ler `method/remembering.md`. Instalar Anki (opcional). |
+| 15 | Ler `99-SYSTEM/method/remembering.md`. Instalar Anki (opcional). |
 | 16–18 | Criar 5 cartões por dia (uma pergunta, uma resposta). |
 | 19 | Recuperação ativa: escrever de memória o que aprendeu e conferir. |
 | 20 | Explicar em voz alta (Feynman) a ideia principal. |
@@ -38,7 +38,7 @@ Texto de prática sugerido: um texto **curto** que você já tenha (ex.: `One St
 
 | Dia | Tarefa |
 |---|---|
-| 22 | Ler `method/routine.md`. Definir seu mínimo viável. |
+| 22 | Ler `99-SYSTEM/method/routine.md`. Definir seu mínimo viável. |
 | 23–26 | Fonte nova, Passadas 1–3 com o mínimo viável. |
 | 27 | Criar uma nota índice (MOC) se houver 10+ notas sobre um assunto. |
 | 28 | Revisão semanal + mensal (1 h). |

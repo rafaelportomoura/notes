@@ -30,7 +30,7 @@ Isso é uma versão enxuta de SQ3R (Survey, Question, Read, Recite, Review).
 
 ## Registro da sessão
 
-Use o template `Reading-session` (em `template-vault/90-Templates/`).
+Use o template `Reading-session` (em `90-Templates/`).
 
 ## Erros comuns
 

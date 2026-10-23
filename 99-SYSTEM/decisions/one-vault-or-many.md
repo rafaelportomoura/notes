@@ -21,7 +21,7 @@
 
 Fora isso, use **pastas** e **propriedades/tags** para separar contextos.
 
-## Estrutura sugerida (já em `template-vault/`)
+## Estrutura sugerida (já criada neste repositório)
 
 ```
 00-Inbox/             captura rápida, esvaziar toda semana
