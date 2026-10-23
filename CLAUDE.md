@@ -15,7 +15,7 @@ This repository **is** the Obsidian vault (vault root = repo root).
 
 - `README.md`: entry point
 - `00-Inbox/`, `10-Journal/`, `20-Projects/`, `30-Areas/`, `40-Sources/`, `50-Permanent-Notes/`, `90-Templates/`: the vault
-- `99-SYSTEM/`: `decisions/`, `method/` (reading, note-taking, remembering, routine, sustainability) and `plan-30-days.md`
+- `99-SYSTEM/`: `decisions/`, `method/` (reading, note-taking, remembering, routine, sustainability), `plan-30-days.md` and `glossary.md`
 - `.obsidian/`: tracked settings (see `.gitignore`)
 - `.claude/`: agent config and lessons
 

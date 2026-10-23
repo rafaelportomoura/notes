@@ -37,6 +37,7 @@ Limite: 8 pastas na raiz, 3 propriedades (`type`, `area`, `status`) e 3 template
 | `method/routine.md` | Sessão mínima, antiprocrastinação, revisão semanal |
 | `method/sustainability.md` | Modos pleno/leve/manutenção, pausa sem culpa, teste dos 3 meses |
 | `plan-30-days.md` | Prática guiada |
+| `glossary.md` | Termos do sistema |
 
 ## Configuração do Obsidian e Git
 
